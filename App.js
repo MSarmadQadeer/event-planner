@@ -185,6 +185,7 @@ const styles = StyleSheet.create({
     textAlign: 'center',
     paddingVertical: 15,
     color: "black",
+    fontFamily: 'PermanentMarker-Regular'
   },
   WeekDayAlphabet: {
     color: 'white',
