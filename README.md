@@ -2,6 +2,13 @@
 
 This is a simple Event Planner application that is created in **React Native**.
 
+## 📜 Guidelines
+
+1.  **Event Name** will be entered manually, while **Date/Day** will be filled by selecting any date from calendar.
+2.  **Add to Event** button will make sure that both the fields are filled. Else data will not be inserted, and an **alert** will be generated.
+3.  On successful insertion, item will be added to the list.
+4.  **Remove All** button will delete all items.
+
 ## :camera_flash: Screens
 
 <img src="./assets/screenshots/screenshot-1.png" width=220> <img src="./assets/screenshots/screenshot-2.png" width=220> <img src="./assets/screenshots/screenshot-3.png" width=220>
